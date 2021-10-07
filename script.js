@@ -8,4 +8,4 @@ const validBrowser = result.satisfies({
     'andorid browser': '>4.3'
 })
 
-console.log(validBrowser)
+alert(validBrowser);
